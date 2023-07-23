@@ -53,7 +53,7 @@ namespace VoiceChatTcp
         private void Receive(Object ObjSoc)
         {
             Socket client = (Socket)ObjSoc;
-
+            
             while (true)
             {
                 byte[] data = new byte[client.ReceiveBufferSize];
@@ -64,7 +64,7 @@ namespace VoiceChatTcp
                     foreach (Socket cl in socClients)
                     {
                         IPEndPoint ip = cl.RemoteEndPoint as IPEndPoint;
-                        if (ip.Address.ToString() != ir.Address.ToString())
+                        if (ip.Address.ToString() != ir.Address.ToString() || ip.Port.ToString() != ir.Port.ToString())
                         {
                             cl.Send(data);
                         }
