@@ -1,0 +1,9 @@
+I:\c#\VoiceChatTcp\VoiceChatTcp\bin\Debug\VoiceChatTcp.exe.config
+I:\c#\VoiceChatTcp\VoiceChatTcp\bin\Debug\VoiceChatTcp.exe
+I:\c#\VoiceChatTcp\VoiceChatTcp\bin\Debug\VoiceChatTcp.pdb
+I:\c#\VoiceChatTcp\VoiceChatTcp\obj\Debug\VoiceChatTcp_Sever.csprojResolveAssemblyReference.cache
+I:\c#\VoiceChatTcp\VoiceChatTcp\obj\Debug\VoiceChatTcp.Form1.resources
+I:\c#\VoiceChatTcp\VoiceChatTcp\obj\Debug\VoiceChatTcp.Properties.Resources.resources
+I:\c#\VoiceChatTcp\VoiceChatTcp\obj\Debug\VoiceChatTcp_Sever.csproj.GenerateResource.Cache
+I:\c#\VoiceChatTcp\VoiceChatTcp\obj\Debug\VoiceChatTcp.exe
+I:\c#\VoiceChatTcp\VoiceChatTcp\obj\Debug\VoiceChatTcp.pdb

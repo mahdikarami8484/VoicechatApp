@@ -1,0 +1,11 @@
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\bin\Debug\VoiceChatTcp_Client.exe.config
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\bin\Debug\VoiceChatTcp_Client.exe
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\bin\Debug\VoiceChatTcp_Client.pdb
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\obj\Debug\VoiceChatTcp_Client.csprojResolveAssemblyReference.cache
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\obj\Debug\VoiceChatTcp_Client.Form1.resources
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\obj\Debug\VoiceChatTcp_Client.Properties.Resources.resources
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\obj\Debug\VoiceChatTcp_Client.csproj.GenerateResource.Cache
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\obj\Debug\VoiceChatTcp_Client.exe
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\obj\Debug\VoiceChatTcp_Client.pdb
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\bin\Debug\NAudio.dll
+I:\c#\VoiceChatTcp\VoiceChatTcp_Client\bin\Debug\NAudio.xml

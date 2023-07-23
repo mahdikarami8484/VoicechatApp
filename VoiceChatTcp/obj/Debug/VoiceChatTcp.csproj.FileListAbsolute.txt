@@ -1,0 +1,1 @@
+I:\c#\VoiceChatTcp\VoiceChatTcp\bin\Debug\VoiceChatTcp.exe.config
